@@ -73,3 +73,10 @@ A remote repositoty is added to the local repository using the command below
 After making changes in my local repository, the content of my local repository is pushed into the remote repository using the command below
 
 **`git push origin main`**
+
+**`git clone`** command was used to download the remote repository into my local machine.
+
+**`git clonegit clone https://github.com/kalkah/LinuxPracticeProjects.git`**
+
+<img width="437" alt="image" src="https://github.com/kalkah/GIT-PROJECT/assets/95209274/6f10c475-74c4-4133-8d50-20fcb3cb53b4">
+
