@@ -69,3 +69,7 @@ A remote repositoty is added to the local repository using the command below
 **`git remote add origin https://github.com/kalkah/LinuxPracticeProjects`**
 
 <img width="415" alt="image" src="https://github.com/kalkah/GIT-PROJECT/assets/95209274/b700b66a-4c9f-4146-8d3f-2674247d9f19">
+
+After making changes in my local repository, the content of my local repository is pushed into the remote repository using the command below
+
+**`git push origin main`**
